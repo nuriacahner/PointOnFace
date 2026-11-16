@@ -8,10 +8,10 @@ define an articular plane.
 ## Why
 
 Fusion's own Construct menu can only place points on:
-- vertices;
-- edges;
-- intersections of planes or edges;
-- centres of circles and spheres.
+- Vertices;
+- Edges;
+- Intersections of planes or edges;
+- Centres of circles and spheres.
 
 None of those lets you put a point **anywhere on a face**. On an organic bone model (a
 NURBS body made from a scan), the landmarks you need are in the middle of large faces,
@@ -35,7 +35,7 @@ far from any vertex or edge. This add-in creates them where you click.
 
 <p align="center">
   <img src="docs_pointonface/img/twopoints.PNG" width="800"><br>
-  <em>Figure 1. Two points created: In orange the first cretaed. In red most recent created point.</em>
+  <em>Figure 1. First point created (orange) and last point created (red).</em>
 </p>
 
 ### Moving a point
@@ -53,7 +53,7 @@ built on it (planes, axes, measurements) follows.
 
 <p align="center">
   <img src="docs_pointonface/img/movepoint.PNG" width="800"><br>
-  <em>Figure 1. Old location (orange) and new location (red).</em>
+  <em>Figure 2. Old location (orange) and new location (red).</em>
 </p>
 
 ## Install
