@@ -1,6 +1,6 @@
 # Point On Face (FacePoint)
 
-A Fusion add-in that creates **construction points exactly where you click on a face** of a
+A Fusion 360 add-in that creates **construction points exactly where you click on a face** of a
 solid, and can **move an existing point** to a new place on a face. Made for anatomical
 landmarks on bone models, such as the tips of the styloid processes or the points that
 define an articular plane.
