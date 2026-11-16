@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# runtime state, written next to the installed add-in
+FacePoint.log
+
+# development notes (not published)
+CLAUDE.md

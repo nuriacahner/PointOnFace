@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "8c41e6d2-5a3f-4b97-a1d0-2e9f7b36c584",
+    "author": "Núria Cahner",
+    "description": {
+        "": "Point On Face: create construction points exactly where you click on a face of a solid, e.g. landmarks on a bone."
+    },
+    "version": "0.4.1",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
