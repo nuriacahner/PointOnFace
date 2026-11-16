@@ -33,6 +33,11 @@ far from any vertex or edge. This add-in creates them where you click.
    timeline group with that name.
 5. Press **OK**. The points are created in the root component, on the faces you clicked.
 
+<p align="center">
+  <img src="docs_pointonface/img/twopoints.PNG" width="800"><br>
+  <em>Figure 1. Two points created: In orange the first cretaed. In red most recent created point.</em>
+</p>
+
 ### Moving a point
 
 Editing a point from the timeline opens Fusion's own Point dialog, which can't place it on
@@ -45,6 +50,11 @@ a face. Instead:
 
 It is the **same point**: it keeps its timeline position and its name, and whatever is
 built on it (planes, axes, measurements) follows.
+
+<p align="center">
+  <img src="docs_pointonface/img/movepoint.PNG" width="800"><br>
+  <em>Figure 1. Old location (orange) and new location (red).</em>
+</p>
 
 ## Install
 
