@@ -5,8 +5,6 @@ solid, and can **move an existing point** to a new place on a face. Made for ana
 landmarks on bone models, such as the tips of the styloid processes or the points that
 define an articular plane.
 
-**Solid → Construct → Point On Face**
-
 ## Why
 
 Fusion's own Construct menu can only place points on:
@@ -20,6 +18,8 @@ NURBS body made from a scan), the landmarks you need are in the middle of large 
 far from any vertex or edge. This add-in creates them where you click.
 
 ## Using it
+
+**Solid → Construct → Point On Face**
 
 1. Open **Point On Face**. The dialog has two boxes:
    - **Click on face**, which is active from the start;
