@@ -22,7 +22,7 @@ far from any vertex or edge. This add-in creates them where you click.
 **Solid → Construct → Point On Face**
 
 1. Open **Point On Face**. The dialog has two boxes:
-   - **Click on face**, which is active from the start;
+   - **Click on face**, which is active from the start.
    - **Point to move**, which stays empty unless you want to move a point.
 2. Click on a face where you want a point. Each click adds a point, and several on the
    same face are fine. A small sphere marks each click: orange, and the last one red.
