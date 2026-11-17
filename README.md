@@ -8,10 +8,10 @@ define an articular plane.
 ## Why
 
 Fusion's own Construct menu can only place points on:
-- Vertices;
-- Edges;
-- Intersections of planes or edges;
-- Centres of circles and spheres.
+- Vertices
+- Edges
+- Intersections of planes or edges
+- Centres of circles and spheres
 
 None of those lets you put a point **anywhere on a face**. On an organic bone model (a
 NURBS body made from a scan), the landmarks you need are in the middle of large faces,
